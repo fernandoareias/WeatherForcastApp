@@ -19,12 +19,6 @@
   </tr>
 </table>
 
-## Status
-The application is already working, but in the future I will implement the following updates:
-<ol>
-  <li>Get the weather forecast according to the geolocation of the cell phone</li>
-</ol>
-
 ## What is it
 WeatherForecastApp is a weather forecast application, it uses the HG Brazil API.
 
